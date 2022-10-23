@@ -1,14 +1,14 @@
 # Hi there, I'm Manish Kumar akA Lordofthemind. 👋
 
-## I'm a Son, Brother, learner and Developer persuing MCA in Banglore India !!
+## I'm a Photographer, Survivor, learner and Developer persuing MCA in Banglore India !!
 
 ## I'm a Software Engineer and a Web Developer.
 
-- 🔭 I’m currently working on Django Projects.
-- 🌱 I’m currently learning Django, Python, and React.
-- 👯 I’m looking to collaborate on Python and react projects.
-- 🤔 I’m looking for help with Django.
-- 💬 Ask me about Python.
+- 🔭 I’m currently working on Django, Bash and Java.
+- 🌱 I’m currently learning Django, Bash, and Java.
+- 👯 I’m looking to collaborate on Django projects.
+- 🤔 I’m looking for help with Django, bash, Java.
+- 💬 Ask me about Python and Bash.
 - 📫 How to reach me: [instagram](https://www.instagram.com/lordofthemind_/).
 - ⚡ Fun fact: It's Very Dark in here.
 
